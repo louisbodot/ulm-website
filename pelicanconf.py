@@ -20,14 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Facebook du Club', 'https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/'),
+         ('YouTube du Club', 'https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g'),
+         ('You can modify those links in your config file', '#'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('Facebook du P4T', 'https://www.facebook.com/Printemps4Temps/ '),
+          ('YouTube du P4T', 'https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw '),
+          ("Instagram du P4T", 'https://www.instagram.com/printemps4temps/'),
+)
 
 DEFAULT_PAGINATION = 10
 
