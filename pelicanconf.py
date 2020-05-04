@@ -19,21 +19,46 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Theme plugins & extensions
+
+JINJA_ENVIRONMENT = {
+    "extensions": ["jinja2.ext.i18n"],
+}
+PLUGIN_PATHS = ["docs/plugins"]
+PLUGINS = ["i18n_subsites", ]
+I18N_TEMPLATES_LANG = 'fr'
+
+THEME = "themes/pelican-bootstrap3"
+# BOOTSTRAP_THEME = 'simplex'
+BOOTSTRAP_THEME = 'ulm'
+PYGMENTS_STYLE = "monokai"
+CUSTOM_CSS = 'theme/css/custom.css'
+
+# Pelican Theme specials
+
+DISPLAY_CATEGORIES_ON_MENU = False
+SHOW_ARTICLE_CATEGORY = True
+
+SLUGIFY_SOURCE = 'title'
+
 # Blogroll
 LINKS = (
-    ('Facebook du Club', 'https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/'),
-         ('YouTube du Club', 'https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g'),
-         ('You can modify those links in your config file', '#'),
+    ('Facebook du P4T', 'https://www.facebook.com/Printemps4Temps/ '),
+    ('YouTube du P4T',
+     'https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw '),
+    ("Instagram du P4T", 'https://www.instagram.com/printemps4temps/'),
 )
 
 # Social widget
 SOCIAL = (
-    ('Facebook du P4T', 'https://www.facebook.com/Printemps4Temps/ '),
-          ('YouTube du P4T', 'https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw '),
-          ("Instagram du P4T", 'https://www.instagram.com/printemps4temps/'),
+    ('Facebook du Club',
+     'https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/'),
+    ('YouTube du Club',
+     'https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g'),
 )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+
+RELATIVE_URLS = True
