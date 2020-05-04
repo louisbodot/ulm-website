@@ -1,0 +1,26 @@
+h1
+{
+    color: white;
+    position: relative;
+    padding: 0.4em 1.2em;
+    background-color: #6a449b;
+}
+
+h2
+{
+    color: #6a449b;
+}
+
+h4
+{
+    color: #f4aa11;
+}
+
+
+.entry-title {
+    display:none
+}
+
+
+// %s/#d9230f/#6a449b/g  // purple
+// %s/#9e0000/#5f3892/g  // darker purple
