@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Club Rock 4 Temps ENS Ulm'
 SITENAME = 'Club Rock 4 Temps ENS Ulm'
+
+# SITEURL = 'http://ulm.rock4temps.fr/public/output/'
 SITEURL = ''
 
 PATH = 'content'
@@ -24,13 +26,18 @@ AUTHOR_FEED_RSS = None
 JINJA_ENVIRONMENT = {
     "extensions": ["jinja2.ext.i18n"],
 }
-PLUGIN_PATHS = ["docs/plugins"]
-PLUGINS = ["i18n_subsites", ]
+
+# JINJA_EXTENSIONS = JINJA_ENVIRONMENT["extensions"]
+
+PLUGIN_PATHS = ["data/plugins"]
+PLUGINS = ["i18n_subsites", "jinja2content", ]
 I18N_TEMPLATES_LANG = 'fr'
 
 THEME = "themes/pelican-bootstrap3"
 # BOOTSTRAP_THEME = 'simplex'
-BOOTSTRAP_THEME = 'ulm'
+# BOOTSTRAP_THEME = 'ulm'
+BOOTSTRAP_THEME = 'yeti_ulm'
+
 PYGMENTS_STYLE = "monokai"
 CUSTOM_CSS = 'theme/css/custom.css'
 
@@ -38,6 +45,8 @@ CUSTOM_CSS = 'theme/css/custom.css'
 
 DISPLAY_CATEGORIES_ON_MENU = False
 SHOW_ARTICLE_CATEGORY = True
+SHOW_ARTICLE_AUTHOR = True
+HIDE_SIDEBAR = True
 
 SLUGIFY_SOURCE = 'title'
 
@@ -61,4 +70,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 
-RELATIVE_URLS = True
+RELATIVE_URLS = False

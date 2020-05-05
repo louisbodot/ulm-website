@@ -11,9 +11,9 @@ h2
     color: #6a449b;
 }
 
-h4
+h3, h4
 {
-    color: #f4aa11;
+    color: #f4aa11 !important;
 }
 
 
@@ -22,5 +22,13 @@ h4
 }
 
 
-// %s/#d9230f/#6a449b/g  // purple
+/* Red => Purples */
+
+// %s/#d9230f/#6a449b/g  // red => purple purple
 // %s/#9e0000/#5f3892/g  // darker purple
+// %s/#e72510/#6a449b/g  // => same purple
+// %s/#cb210e/#552e88/g  // => darker purple
+// %s/#a91b0c/#6a449b/g
+
+
+inear-gradient(#e7107f, #d9230f, #cb210e);
