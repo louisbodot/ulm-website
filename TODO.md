@@ -1,0 +1,3 @@
+- Remove sidebar, put social links in footer
+- Add articles on teachers
+- Link names to teacher page

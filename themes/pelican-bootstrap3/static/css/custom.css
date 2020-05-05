@@ -22,7 +22,7 @@ h3, h4
 }
 
 
-/* Red => Purples */
+/* Simplex red to purple */
 
 // %s/#d9230f/#6a449b/g  // red => purple purple
 // %s/#9e0000/#5f3892/g  // darker purple
@@ -31,4 +31,8 @@ h3, h4
 // %s/#a91b0c/#6a449b/g
 
 
-inear-gradient(#e7107f, #d9230f, #cb210e);
+/* Yeti blue to yellow */
+
+// %s/#008cba/#f4aa11/g blue => yellow
+// %s/#0079a1/#d58f00/g  dark blue => dark yellow
+// %s/#00678a/#eac500/g grey blue => grey yellow

@@ -4,6 +4,7 @@ Title: Calendrier
 
 À venir...
 
+<!---
 <div class="row">
   <div class="col-sm-6">
   <div class="card-deck mb-3 text-center">
@@ -46,3 +47,4 @@ Title: Calendrier
   </div>
 </div>
 
+-->

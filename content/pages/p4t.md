@@ -34,3 +34,7 @@ Notre JnJ comporte plusieurs divisions. Les documents pour compétieur-rice-s po
 
 *La liste des membres du jury sera ajoutée un mois avant l’événement.*
 
+
+# Billeterie
+
+La billetterie est accessible sur [HelloAsso](https://www.helloasso.com/associations/printemps-4-temps/evenements/printemps-4-temps-edition-2020).

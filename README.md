@@ -19,11 +19,17 @@ pip install --upgrade pip pipenv
 pipenv install
 ```
 
+* Install Pelican plugins
+
+```
+git clone https://github.com/getpelican/pelican-plugins
+```
+
+## Generate / serve
+
 * Enter your virtual env
 
 `pipenv shell`
-
-## Generate / serve
 
 Generate your content in HTML with:
 

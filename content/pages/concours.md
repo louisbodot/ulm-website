@@ -3,26 +3,32 @@ Title: Concours
 # Concours de chorégraphies
 
 ## Présentation
-Depuis 2017, le club organise un concours de chorégraphie entièrement gratuit et ouvert à tous les niveaux, de débutant à confirmé ! Initialement tenu à l’occasion des 48h des Arts de l’ENS, il est l’occasion pour les danseur.euse.s de réaliser un travail chorégraphique et de le présenter devant un public et un jury composé de danseur.euse.s expérimenté.e.s du club.
+Depuis 2017, le club organise un concours de chorégraphie *entièrement gratuit et ouvert à tous les niveaux*, de débutant à confirmé ! 
+
+Initialement tenu à l’occasion des 48h des Arts de l’ENS, il est l’occasion pour les danseur.euse.s de réaliser un travail chorégraphique et de le présenter devant un public et un jury composé de danseur.euse.s expérimenté.e.s du club.
 
 Cette année, le concours aura lieu le vendredi 3 avril 2020 en SEA.
 
-## Palmarès de la dernière édition
-1ère place : Héloïse Vallerio et Nikita Kavokine
-2ème place : Albane Desseaux et Lorenzo Falconieri
-3ème place : Justine Gadon-Ferreira et Yann Lopez
-Prix du public : Louise Renoul et Fred Burton
-Espoir follower : Albane Desseaux
-Espoir leader : Rémi Khansa
+## Palmarès de la dernière édition (2019)
+
+* 1ère place : [Héloïse Vallerio](/heloise.html) et Nikita Kavokine
+* 2ème place : Albane Desseaux et Lorenzo Falconieri
+* 3ème place : Justine Gadon-Ferreira et Yann Lopez
+* Prix du public : Louise Renoul et Fred Burton
+* Espoir follower : Albane Desseaux
+* Espoir leader : Rémi Khansa
+
 ## Juges de l’édition 2020
-Léa
-Guillaume
-Hélo
+
+* [Léa](/lea.html)
+* [Guillaume](/gdl.html)
+* [Héloïse](/heloise.html)
 
 ## Média
-Mettre un lien vers les photo/vidéo du dernier CC
 
-## Inscription pour la prochaine édition : 
+*Mettre un lien vers les photo/vidéo du dernier CC*
+
+## Inscription pour la prochaine édition (2020) 
 
 Le vendredi 3 avril 2020 à 20h30 en SEA: [Événement Facebook](https://www.facebook.com/events/426039771682252/)
 

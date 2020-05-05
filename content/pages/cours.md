@@ -6,6 +6,39 @@ Le cours débutant/intermédiaire est un cours dédié aux nouvelles.eaux danseu
 
 Le cours débutant et intermédiaire est donné par [Théo](/theo.html) et [Claire](/claire.html).
 
+Pour suivre les cours débutants et intermédiaires, il faut d'abord côtiser au Bureau des Sports (BDS) de l'ENS. Il n'y a pas de coût supplémentaire.
+
+Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS – pour les autres, référez vous à votre BDS ;) – :
+
+
+<div class="row">
+  <div class="col-sm-6">
+  <div class="card-deck mb-3 text-center">
+    <div class="card">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Semestre (exté)</h4>
+      </div>
+      <div class="card-body">
+        <h2 class="card-title pricing-card-title">40€ <small class="text-muted">/ semestre</small></h2>
+      </div>
+    </div>
+    </div>
+  </div>
+  
+  <div class="col-sm-6">
+  <div class="card-deck mb-3 text-center">
+    <div class="card">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Année (exté)</h4>
+      </div>
+      <div class="card-body">
+        <h2 class="card-title pricing-card-title">60€ <small class="text-muted">/ année</small></h2>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+
 
 # Perfectionnement
 
@@ -23,10 +56,6 @@ Les cours sont organisés en cycles thématiques de 2 à 4 semaines. Cette organ
 
 Les cours s’adressent à toute personne ayant été active au moins un an dans la communauté du R4T (un an de cours réguliers et de soirées), qu’elle ait été initialement formée au cours débutant/intermédiaire de l’ENS ou non. Si vous avez des doutes sur votre capacité à intégrer le cours, n’hésitez pas à contacter notre équipe enseignante à l’adresse suivante : fusion4temps [at] gmail [dot] com
 
-Ce cours requiert le paiement d’une cotisation supplémentaire:
- 
-* 120€ à l’année, 70€ au semestre pour les personnes disposant d’un salaire
-* 105€ à l’année, 62,5€ au semestre pour les personnes non salariées
     
 Le cours de Perfectionnement 4 Temps est donné par [Léa](/lea.html), 
 [Guillaume (GdL)](/gdl.html), 
@@ -35,6 +64,54 @@ Le cours de Perfectionnement 4 Temps est donné par [Léa](/lea.html),
 [Natacha](/natacha.html), et
 [Paul](/pbk.html).
 
+Ce cours requiert le paiement d’une cotisation supplémentaire à celui du BDS:
+ 
+* 120€ à l’année, 70€ au semestre pour les personnes disposant d’un salaire
+* 105€ à l’année, 62,5€ au semestre pour les personnes non salariées
+
+<div class="row">
+  <div class="col-sm-6">
+  <div class="card-deck mb-3 text-center">
+    <div class="card">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Non salarié-e-s</h4>
+      </div>
+      <div class="card-body">
+        <h2 class="card-title pricing-card-title">105€ <small class="text-muted">/ année</small></h2>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>62,5€ au semestre </li>
+        </ul>
+      </div>
+    </div>
+    </div>
+  </div>
+  
+  <div class="col-sm-6">
+  <div class="card-deck mb-3 text-center">
+    <div class="card">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Salarié-e-s</h4>
+      </div>
+      <div class="card-body">
+        <h2 class="card-title pricing-card-title">120€ <small class="text-muted">/ année</small></h2>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>70€ au semestre </li>
+        </ul>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+
+<!---
+<center>
+<button type="button" class="btn btn-lg btn-block btn-primary">
+<link href="/contact.html">
+Contacter le club
+</link>
+</button>
+</center>
+-->
 
 # Ateliers
 
