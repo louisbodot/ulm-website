@@ -1,5 +1,4 @@
-Title: Welcome! 
-Slug: welcome 
+Title: Bienvenue ! 
 Date: 2020-05-04
 
 Bienvenue sur le site officiel du Club Rock 4 Temps de l'ENS Ulm.
