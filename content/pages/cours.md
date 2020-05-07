@@ -6,9 +6,11 @@ Le cours débutant/intermédiaire est un cours dédié aux nouvelles.eaux danseu
 
 Le cours débutant et intermédiaire est donné par [Théo](/theo.html) et [Claire](/claire.html).
 
-Pour suivre les cours débutants et intermédiaires, il faut d'abord côtiser au Bureau des Sports (BDS) de l'ENS. Il n'y a pas de coût supplémentaire.
+Pour suivre les cours débutants et intermédiaires, il faut d'abord 
+[adhérer au Bureau des Sports (BDS) de l'ENS](https://www.bds.ens.fr/infos-pratiques/tarifs/). 
+Il n'y a pas de coût supplémentaire.
 
-Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS – pour les autres, référez vous à votre BDS ;) – :
+Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS (les autres, suivez le lien !) :
 
 
 <div class="row">
@@ -60,7 +62,7 @@ Les cours s’adressent à toute personne ayant été active au moins un an dans
 Le cours de Perfectionnement 4 Temps est donné par [Léa](/lea.html), 
 [Guillaume (GdL)](/gdl.html), 
 [Héloïse](/heloise.html),
-[Guillaume (Guigui)](guigui.html),
+[Guillaume (Guigui)](/guigui.html),
 [Natacha](/natacha.html), et
 [Paul](/pbk.html).
 

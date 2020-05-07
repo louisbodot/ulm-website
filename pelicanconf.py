@@ -71,7 +71,7 @@ SOCIAL = (
      'https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g'),
 )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 8
 
 # Uncomment following line if you want document-relative URLs when developing
 

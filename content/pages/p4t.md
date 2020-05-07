@@ -10,7 +10,20 @@ Au programme :
 * 3 divisions de Jack & Jill
 * Des shows et de nombreux cours !
 
-Nous avons invité de nombreux.ses professeur.e.s, provenant de différentes écoles pour partager avec vous leur savoir-faire, leurs connaissances et leur passion.
+## Professeur-e-s
+
+Nous avons invité de nombreux.ses professeur.e.s, provenant de différentes écoles pour partager avec vous leur savoir-faire, leurs connaissances et leur passion :
+
+* [Alexandra et Olivier](/alexandra-et-olivier.html),
+* [Natacha et Paul](/natacha-et-paul.html),
+* [Vividiane et Adrien](/vividiane-et-adrien.html),
+* [Léa et Guillaume](/lea-et-gdl.html),
+* [Théo et Claire](/theo-et-claire.html),
+* [Sandra et Ludovic](/sandra-et-ludo.html),
+* [Albane et Philippe](/albane-et-philippe.html),
+* [Héloïse et Guillaume](/heloise-et-guigui.html),
+* [Aliénor et Yann](/alienor-et-yann.html).
+
 
 # Les compétitions
 
