@@ -1,5 +1,7 @@
 Title: P4T
 
+![](/images/p4t_banner.png)
+
 # Présentation
 
 Le Printemps 4 Temps est le plus gros événement organisé par le club de rock de l’ENS Ulm chaque année. Son but : offrir un week end entier dédié au Rock 4 Temps en plein cœurde Paris !
@@ -16,7 +18,7 @@ Nous avons invité de nombreux.ses professeur.e.s, provenant de différentes éc
 
 * [Alexandra et Olivier](/alexandra-et-olivier.html),
 * [Natacha et Paul](/natacha-et-paul.html),
-* [Vividiane et Adrien](/vividiane-et-adrien.html),
+* [Viridiane et Adrien](/viridiane-et-adrien.html),
 * [Léa et Guillaume](/lea-et-gdl.html),
 * [Théo et Claire](/theo-et-claire.html),
 * [Sandra et Ludovic](/sandra-et-ludo.html),
@@ -51,3 +53,5 @@ Notre JnJ comporte plusieurs divisions. Les documents pour compétieur-rice-s po
 # Billeterie
 
 La billetterie est accessible sur [HelloAsso](https://www.helloasso.com/associations/printemps-4-temps/evenements/printemps-4-temps-edition-2020).
+
+![logo](/images/p4t.svg)

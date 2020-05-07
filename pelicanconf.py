@@ -13,8 +13,8 @@ BANNER = 'images/helo_nikita.jpg'
 BANNER_SUBTITLE = """Bienvenue ! <br/> 
 Retrouvez sur cette page les dernières activités du club, mise à jour hebdomadaire."""
 
-#SITEURL = 'http://ulm.rock4temps.fr/public/output/'
 SITEURL = ''
+#SITEURL = 'http://ulm.rock4temps.fr/public/output/'
 
 PATH = 'content'
 

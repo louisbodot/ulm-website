@@ -1,3 +1,9 @@
+/* Global */
+
+.container {
+    max-width: 60em !important;
+}
+
 /* Titles */
 
 h1
@@ -8,12 +14,12 @@ h1
     background-color: #6a449b;
 }
 
-h2
+h2, h4
 {
     color: #6a449b;
 }
 
-h3, h4
+h3, h5
 {
     color: #f4aa11 !important;
 }
@@ -24,9 +30,26 @@ h3, h4
     display:none; /* remove automatic display of article's title */
 }
 
-.entry-content a {
-    color: #f4aa11;
+.entry-content a,
+#club a {
+    color: #f4aa11 !important;
 }
+
+.container .summary img {
+    max-height: 30em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.entry-content img {
+    max-height: 50em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt=logo] { max-width: 100px; }
 
 /* Footer */
 
@@ -76,4 +99,7 @@ mv-daynames-table {
 // %s/#0079a1/#d58f00/g  dark blue => dark yellow
 // %s/#00678a/#eac500/g grey blue => grey yellow
 
-// %s/href="\//href="\/public\/output\//g
+
+// %s/=\"\//=\"\/public\/output\//g
+
+// sed -i '' -e 's/=\"\//=\"\/public\/output\//g' *.html

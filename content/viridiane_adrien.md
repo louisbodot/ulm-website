@@ -1,6 +1,8 @@
-Title: Vividiane et Adrien 
+Title: Viridiane et Adrien 
 Date: 2020-01-10
 Category: Profs 
+
+![](/images/viridiane_adrien.jpg)
 
 Viridiane a plongé dans l'univers du rock il y a seulement 4 ans et a été tout de suite passionnée par le côté convivial de cette danse. Elle enseigne régulièrement depuis 2017 à Télécom Evry ainsi qu'à la Sirène aux côtés d’Adrien. Il lui tient à cœur de donner à chacun de ses élèves des conseils personnalisés pour leur permettre de progresser au mieux. En plus de son parcours d’enseignement, Viridiane a gagné le concours de l’UniLaSalle à Beauvais, et fait depuis partie du jury de ce concours. 
 Depuis 2019, elle anime avec Nicolas Clémenceau [Passion4Temps](www.passion4temps.com), un service en ligne d’apprentissage du Rock 4 Temps.

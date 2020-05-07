@@ -13,33 +13,32 @@
          {% endif %}
          <div class="col-xs-9">
              <center>
-             &copy; {{ copy_date }} {{ AUTHOR }}
-                <a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm"
-                    style="margin-left: 0.5em">
+                <span id="club"><a href="{{ SITEURL }}">Club</a></span>
+                <a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm">
                    <img src="{{ SITEURL }}/images/github_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
                 </a>
                 <a href="https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/">
                     <img src="{{ SITEURL }}/images/fb_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
                 </a>
-                 <a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g"
-                    style="margin-right: 2em">
+                 <a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g">
                      <img src="{{ SITEURL }}/images/yt_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
                  </a>
-
-                 <span id="p4t"><a href="{{ SITEURL }}/pages/p4t.html">P4T</a></span>
+             <br />
+                 <div style="margin-top:1em; margin-bottom: 1em" >
+                 <span id="p4t"><a href="{{ SITEURL }}/pages/p4t.html">&middot; P4T</a></span>
+                 <a href="https://www.instagram.com/printemps4temps/">
+                     <img src="{{ SITEURL }}/images/ig_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                 </a>
                  <a href="https://www.facebook.com/Printemps4Temps/ ">
                      <img src="{{ SITEURL }}/images/fb_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
                  </a>
                  <a href="https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw ">
                      <img src="{{ SITEURL }}/images/yt_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
                  </a>
-                 <a href="https://www.instagram.com/printemps4temps/">
-                     <img src="{{ SITEURL }}/images/ig_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
-                 </a>
+                 </div>
              </center>
-             <br />
 
-             {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+             &copy; {{ copy_date }} {{ AUTHOR }}. {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
             {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}

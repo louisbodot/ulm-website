@@ -1,6 +1,8 @@
 Title: Albane et Philippe 
-Date: 2020-02-13
+Date: 2019-12-26
 Category: Profs 
+
+![](/images/albane_philippe.jpg)
 
 Albane est une danseuse passionnée depuis deux ans de Rock 4 temps. Son expérience de 18 ans de danse classique lui apporte exigence et rigueur. Et avec une belle progression à la clé, elle participe maintenant aux cours assurés à la Mas le mercredi soir où elle a à cœur de transmettre le plaisir que procure la danse à travers un équilibre technique et artistique. Elle apprécie aussi composer des chorégraphies et ses récentes participations aux compétitions lui ont permis d'atteindre plusieurs podiums.
 
