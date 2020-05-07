@@ -7,10 +7,23 @@
 <div id="banner">
 	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
 		<div class="copy">
+			<center>
 			<h1>{{ SITENAME }}</h1>
+
 			{% if BANNER_SUBTITLE %}
 				<p class="intro">{{ BANNER_SUBTITLE }}</p>
 			{% endif %}
+
+			<a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm">
+				<img src="{{ SITEURL }}/images/github_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+			</a>
+			<a href="https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/">
+				<img src="{{ SITEURL }}/images/fb_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+			</a>
+			<a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g">
+				<img src="{{ SITEURL }}/images/yt_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+			</a>
+			</center>
 		</div>
 	</div>
 </div>

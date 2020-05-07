@@ -1,6 +1,6 @@
-<footer>
+<footer id="footer">
    <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-      <hr>
+      <br>
       <div class="row">
          {% if articles %}
            {% if articles[0].modified %}
@@ -11,8 +11,35 @@
          {% else %}
             {% set copy_date = '' %}
          {% endif %}
-         <div class="col-xs-10">&copy; {{ copy_date }} {{ AUTHOR }}
-            &middot; {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+         <div class="col-xs-9">
+             <center>
+             &copy; {{ copy_date }} {{ AUTHOR }}
+                <a href="https://github.com/Club-Rock-4-Temps-ENS-Ulm"
+                    style="margin-left: 0.5em">
+                   <img src="{{ SITEURL }}/images/github_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                </a>
+                <a href="https://www.facebook.com/Club-de-rock-4-temps-de-lENS-dUlm-375879339657986/">
+                    <img src="{{ SITEURL }}/images/fb_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                </a>
+                 <a href="https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g"
+                    style="margin-right: 2em">
+                     <img src="{{ SITEURL }}/images/yt_yellow.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                 </a>
+
+                 <span id="p4t"><a href="{{ SITEURL }}/pages/p4t.html">P4T</a></span>
+                 <a href="https://www.facebook.com/Printemps4Temps/ ">
+                     <img src="{{ SITEURL }}/images/fb_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                 </a>
+                 <a href="https://www.youtube.com/channel/UCFU1BM6d0mQzLJkha1idTtw ">
+                     <img src="{{ SITEURL }}/images/yt_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                 </a>
+                 <a href="https://www.instagram.com/printemps4temps/">
+                     <img src="{{ SITEURL }}/images/ig_blue.png" width="{{ FOOTERLOGO_SIZE }}"/>
+                 </a>
+             </center>
+             <br />
+
+             {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
             {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
@@ -22,7 +49,7 @@
               <p><small>{{ CUSTOM_LICENSE }}</small></p>
             {% endif %}
          </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">{{ _('Back to top') }}</a></p></div>
+         <div class="col-xs-3"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">{{ _('Back to top') }}</a></p></div>
       </div>
    </div>
 </footer>

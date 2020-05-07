@@ -1,3 +1,5 @@
+/* Titles */
+
 h1
 {
     color: white;
@@ -16,11 +18,48 @@ h3, h4
     color: #f4aa11 !important;
 }
 
+/* In Articles */
 
 .entry-title {
-    display:none
+    display:none; /* remove automatic display of article's title */
 }
 
+.entry-content a {
+    color: #f4aa11;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #333333;
+}
+
+#footer .row {
+    color: #c6c6c6;
+}
+
+#p4t a {
+    color: #79c4d9 !important;  // blue for P4T link
+}
+
+footer a:hover {
+    color: #f4aa11;
+    text-decoration: none;
+}
+
+/* Calendar */
+
+#calendarTitle {
+    font-family: FontAwesome,sans-serif;
+    font-weight: bold;
+    padding-left: 2px;
+    color: #f4aa11 !important;
+}
+
+mv-daynames-table {
+    background: #f4aa11 !important;
+    color: #6a449b;
+}
 
 /* Simplex red to purple */
 
@@ -36,3 +75,5 @@ h3, h4
 // %s/#008cba/#f4aa11/g blue => yellow
 // %s/#0079a1/#d58f00/g  dark blue => dark yellow
 // %s/#00678a/#eac500/g grey blue => grey yellow
+
+// %s/href="\//href="\/public\/output\//g

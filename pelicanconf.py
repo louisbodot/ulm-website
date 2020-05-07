@@ -2,10 +2,18 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Club Rock 4 Temps ENS Ulm'
+AUTHOR = 'R4T ENS Ulm'
 SITENAME = 'Club Rock 4 Temps ENS Ulm'
 
-# SITEURL = 'http://ulm.rock4temps.fr/public/output/'
+SITELOGO = 'images/logo4tps_blanc.png'
+SITELOGO_SIZE = "25em"
+FOOTERLOGO_SIZE = "35em"
+
+BANNER = 'images/helo_nikita.jpg'
+BANNER_SUBTITLE = """Bienvenue ! <br/> 
+Retrouvez sur cette page les dernières activités du club, mise à jour hebdomadaire."""
+
+#SITEURL = 'http://ulm.rock4temps.fr/public/output/'
 SITEURL = ''
 
 PATH = 'content'
@@ -27,15 +35,11 @@ JINJA_ENVIRONMENT = {
     "extensions": ["jinja2.ext.i18n"],
 }
 
-# JINJA_EXTENSIONS = JINJA_ENVIRONMENT["extensions"]
-
 PLUGIN_PATHS = ["data/plugins"]
 PLUGINS = ["i18n_subsites", "jinja2content", ]
 I18N_TEMPLATES_LANG = 'fr'
 
 THEME = "themes/pelican-bootstrap3"
-# BOOTSTRAP_THEME = 'simplex'
-# BOOTSTRAP_THEME = 'ulm'
 BOOTSTRAP_THEME = 'yeti_ulm'
 
 PYGMENTS_STYLE = "monokai"
@@ -44,13 +48,14 @@ CUSTOM_CSS = 'theme/css/custom.css'
 # Pelican Theme specials
 
 DISPLAY_CATEGORIES_ON_MENU = False
+DEFAULT_CATEGORY = 'Actualités'
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
 HIDE_SIDEBAR = True
 
 SLUGIFY_SOURCE = 'title'
 
-# Blogroll
+# Blogroll -- not used (sidebar), but keeping it here in case it is
 LINKS = (
     ('Facebook du P4T', 'https://www.facebook.com/Printemps4Temps/ '),
     ('YouTube du P4T',
