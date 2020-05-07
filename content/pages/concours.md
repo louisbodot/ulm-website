@@ -1,4 +1,5 @@
 Title: Concours
+page-order: 6
 
 # Concours de chorégraphies
 

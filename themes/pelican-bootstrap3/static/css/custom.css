@@ -61,14 +61,29 @@ img[alt=logo] { max-width: 100px; }
     color: #c6c6c6;
 }
 
-#p4t a {
-    color: #79c4d9 !important;  // blue for P4T link
-}
-
 footer a:hover {
     color: #f4aa11;
     text-decoration: none;
 }
+
+/* P4T Specifics */
+
+#p4t a, .p4t a {
+    color: #79c4d9 !important;  // blue for P4T link
+}
+
+.p4t h1 {
+    background-color: #79c4d9;
+}
+
+.p4t h2, .p4t h4 {
+    color: #f76e57;
+}
+
+.p4t h3, .p4t h5 {
+    color: #79c4d9;
+}
+
 
 /* Calendar */
 

@@ -1,4 +1,5 @@
 Title: À propos
+page-order: 8
 
 # Contact 
 
@@ -14,6 +15,8 @@ Title: À propos
 * Inscription au concours de choré : concours [at] ulm.rock4temps [dot] fr
 
 # Le Club Rock 4 Temps d'ENS Ulm
+
+![](/images/banniere.jpg)
 
 ## Le Rock 4 Temps
 

@@ -36,7 +36,7 @@ JINJA_ENVIRONMENT = {
 }
 
 PLUGIN_PATHS = ["data/plugins"]
-PLUGINS = ["i18n_subsites", "jinja2content", ]
+PLUGINS = ["i18n_subsites", "jinja2content", ]  # "tipue_search", ]
 I18N_TEMPLATES_LANG = 'fr'
 
 THEME = "themes/pelican-bootstrap3"
@@ -55,6 +55,11 @@ HIDE_SIDEBAR = True
 
 SLUGIFY_SOURCE = 'title'
 
+# Order content
+
+PAGE_ORDER_BY = "page-order"
+PAGES_SORT_ATTRIBUTE = 'basename'
+
 # Blogroll -- not used (sidebar), but keeping it here in case it is
 LINKS = (
     ('Facebook du P4T', 'https://www.facebook.com/Printemps4Temps/ '),
@@ -71,7 +76,7 @@ SOCIAL = (
      'https://www.youtube.com/channel/UCENi2WW1tbMwdZFzfaLUu1g'),
 )
 
-DEFAULT_PAGINATION = 8
+DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
 

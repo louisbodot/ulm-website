@@ -1,4 +1,5 @@
 Title: Cours
+page-order: 2
 
 # Cours débutant et intermédiaire
 
@@ -42,7 +43,9 @@ Prix 2019 des cotisations BDS pour les personnes extérieures à l'ENS (les autr
 </div>
 
 
-# Perfectionnement
+# Perfectionnement 4 Temps
+
+![](/images/perf4temps.jpg)
 
 ## Le Cours
 

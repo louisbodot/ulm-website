@@ -138,12 +138,21 @@
                     <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
                 {% if not PAGES_SORT_ATTRIBUTE -%}
-                    {% set PAGES_SORT_ATTRIBUTE = 'title' %}
+                    {% set PAGES_SORT_ATTRIBUTE = 'basename' %}
                 {%- endif %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in pages | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
                         {% if p.url %}
-                         <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
+                         <li
+                                 {% if p == page and p.title == "P4T" %}
+                                    class="active p4t"
+                                {% elif p == page %}
+                                    class="active"
+                                {% elif p.title == "P4T" %}
+                                    class="p4t"
+                                {% endif %}
+                            >
+                            <a href="{{ SITEURL }}/{{ p.url }}">
                              {{ p.menulabel|default(p.title) }}
                           </a></li>
                         {% endif %}

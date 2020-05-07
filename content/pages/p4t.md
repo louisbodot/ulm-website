@@ -1,10 +1,11 @@
 Title: P4T
+page-order: 9
 
 ![](/images/p4t_banner.png)
 
 # Présentation
 
-Le Printemps 4 Temps est le plus gros événement organisé par le club de rock de l’ENS Ulm chaque année. Son but : offrir un week end entier dédié au Rock 4 Temps en plein cœurde Paris !
+Le Printemps 4 Temps est le plus gros événement organisé par le club de rock de l’ENS Ulm chaque année. Son but : offrir un week end entier dédié au Rock 4 Temps en plein cœur de Paris !
 
 Au programme :
 

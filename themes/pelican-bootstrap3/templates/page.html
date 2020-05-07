@@ -56,7 +56,13 @@
                 get the pdf
             </a>
         {% endif %}
-        <div class="entry-content">
+        <div
+             {% if page.title == "P4T" %}
+                class="entry-content p4t"
+            {% else %}
+                class="entry-content"
+            {% endif %}>
+
             {{ page.content }}
 
             {% if page.comments == 'enabled' %}
